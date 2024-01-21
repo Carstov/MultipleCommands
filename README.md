@@ -3,20 +3,20 @@ MultipleCommands ist eine Minecraft Mod für die Version 1.7.10,
 die mehrere QOL features durch Befehle implementiert. Das
 hauptfeature ist hierbei, das es dem Spieler ermöglicht, 
 durch Befehle Teleportpunkte zu setzen und sich jederzeit dorthin zurückzuteleportieren können.
-__
-__
+  
+  
 ## Befehle
-/sethome <name>   # Setzt einen Teleportationspunkt__
-/home <name>      # Teleportiert sich zu einem Teleportationspunkt__
-/homelist         # Zeigt eine Liste aller Teleportationspunkte an__
-/delhome <name>   # Löscht einen Teleportationspunkt__
-/back             # Teleportiert sich zum letzten teleportierten Teleportationspunkt oder zum letzten Todespunkt__
-/day              # Setzt die Zeit auf den Tag zurück__
-/night            # Setzt die Zeit auf die Nacht zurück__
-/rain             # Lässt es regnen__
-/sun              # Stoppt den Regen__
-__
-__
+/sethome <name>   # Setzt einen Teleportationspunkt  
+/home <name>      # Teleportiert sich zu einem Teleportationspunkt  
+/homelist         # Zeigt eine Liste aller Teleportationspunkte an  
+/delhome <name>   # Löscht einen Teleportationspunkt  
+/back             # Teleportiert sich zum letzten teleportierten Teleportationspunkt oder zum letzten Todespunkt  
+/day              # Setzt die Zeit auf den Tag zurück  
+/night            # Setzt die Zeit auf die Nacht zurück  
+/rain             # Lässt es regnen  
+/sun              # Stoppt den Regen  
+  
+  
 ## Teleportationssystem
 Wenn ein Spieler einen Teleportationspunkt erstellt, 
 werden alle notwendigen Informationen, wie  SpielerID, Name, X, Y, Z, DimensionsID
